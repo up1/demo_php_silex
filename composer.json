@@ -1,0 +1,6 @@
+{
+    "require": {
+        "silex/silex": "1.0.*@dev",
+        "tobiassjosten/responsible-service-provider": "dev-master"
+    }
+}
